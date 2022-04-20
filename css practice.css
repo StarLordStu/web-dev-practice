@@ -1,10 +1,13 @@
+h1{
+    background-color: turquoise;
+}
 h2 {
     color: indigo;
-    background-color: turquoise
+    background-color: turquoise; 
 }
 button {
     background-color: plum;
-    color: magenta
+    color: magenta;
 }
 p{
     color: red;
@@ -16,4 +19,7 @@ body{
 table{
     color: red;
     background-color: purple; 
+}
+form{
+    background-color:turquoise;
 }
