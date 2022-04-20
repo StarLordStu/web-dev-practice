@@ -1,10 +1,19 @@
 h2 {
-    color: indigo
+    color: indigo;
+    background-color: turquoise
 }
 button {
     background-color: plum;
     color: magenta
 }
 p{
-    color: olive
+    color: red;
+    background-color:purple; 
+}
+body{
+    background-image: url(top-10-worst-90s-website-designs-header.png)
+}
+table{
+    color: red;
+    background-color: purple; 
 }
