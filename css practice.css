@@ -1,7 +1,9 @@
 h1{
+    text-align: center;
     background-color: turquoise;
 }
 h2 {
+    text-align: left;
     color: indigo;
     background-color: turquoise; 
 }
@@ -11,14 +13,14 @@ button {
 }
 p{
     color: red;
-    background-color:purple; 
+    background-color:black; 
 }
 body{
     background-image: url(top-10-worst-90s-website-designs-header.png)
 }
 table{
     color: red;
-    background-color: purple; 
+    background-color: black; 
 }
 form{
     background-color:turquoise;
