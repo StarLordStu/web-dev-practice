@@ -1,11 +1,14 @@
 h1{
+    
     text-align: center;
     background-color: turquoise;
+    width: 500px
 }
 h2 {
-    text-align: left;
+    text-align: center;
     color: indigo;
     background-color: turquoise; 
+    width: 500px;
 }
 button {
     background-color: plum;
@@ -14,6 +17,7 @@ button {
 p{
     color: red;
     background-color:black; 
+    width: 500px
 }
 body{
     background-image: url(top-10-worst-90s-website-designs-header.png)
@@ -24,6 +28,7 @@ table{
 }
 form{
     background-color:turquoise;
+    width: 500px
 }
 /* .class-name for class selectors
     #id-name for id selectors*\
