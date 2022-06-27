@@ -20,7 +20,8 @@ p{
     width: 500px
 }
 body{
-    background-image: url(top-10-worst-90s-website-designs-header.png)
+    background: url(top-10-worst-90s-website-designs-header.png) center/cover;
+   
 }
 table{
     color: red;
